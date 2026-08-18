@@ -6,7 +6,7 @@ public class LoopII {
 
     public static void main(String[] args){
 
-        
+
 
 
 
